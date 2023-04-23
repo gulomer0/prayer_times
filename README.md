@@ -1,4 +1,4 @@
-# namaz_vakitleri
+# prayer_time
 
 A new Flutter project.
 
